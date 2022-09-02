@@ -26,4 +26,4 @@ jobs:
           file: mongo.Dockerfile
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/deemakuzovkin/osm-docker/mongo:latest
+          tags: ghcr.io/deemakuzovkin/mongo:latest
